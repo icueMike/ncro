@@ -2,8 +2,6 @@
 <p style="margin: 0px; color: rgb(102, 102, 102); font-size: 14px; line-height: 24px; font-family: sans-serif;"><strong>T</strong>his PoE All Trials of Ascendancy Locations guide is to help starter quickly complete lab trials. Completing the Labyrinth for unlocks a character&#39;s Ascendancy class and points for the powerful Ascendancy skill tree.</p>
 </blockquote>
 
-<p style="margin: 0px; color: rgb(102, 102, 102); font-size: 14px; line-height: 24px; font-family: sans-serif;">&nbsp;</p>
-
 <h2 style="margin: 0px 0px 1.25rem; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; font-size: 1.5rem; line-height: 1.3; vertical-align: baseline;"><span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;"><a href="#norm" style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline; color: rgb(230, 73, 70);">1. Normal Labyrinth</a></span><br />
 <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;"><a href="#cruel" style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline; color: rgb(230, 73, 70);">2. Cruel Labyrinth</a></span><br />
 <span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;"><a href="#merc" style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline; color: rgb(230, 73, 70);">3. Merciless Labyrinth</a></span><br />
@@ -77,7 +75,7 @@ Composed of Poison Dart Traps.</p>
 
 <p style="margin: 0px 0px 1.25rem; padding: 0px; border: 0px; font: inherit; vertical-align: baseline;"><a name="cruel" style="margin: 0px; padding: 0px; border-width: 0px; border-style: initial; border-color: initial; font-style: inherit; font-variant: inherit; font-weight: 600; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline; color: rgb(230, 73, 70);"></a></p>
 
-<div class="su-divider su-divider-style-default" style="margin: 15px 0px; padding: 0px; border-width: 5px; border-style: none none solid; border-color: rgb(255, 255, 255); border-image: initial; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: 1; font-family: inherit; vertical-align: baseline; clear: both; text-align: right;"><a href="https://www.poelab.com/trial-locations/#" style="margin: 0px; padding: 0px 0px 5px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 600; font-stretch: inherit; font-size: 0.8em; line-height: inherit; font-family: inherit; vertical-align: baseline; color: rgb(0, 91, 171); text-decoration-line: none; display: inline-block; outline: 0px;">Go to top</a></div>
+<div class="su-divider su-divider-style-default" style="margin: 15px 0px; padding: 0px; border-width: 5px; border-style: none none solid; border-color: rgb(255, 255, 255); border-image: initial; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: 1; font-family: inherit; vertical-align: baseline; clear: both; text-align: right;"><a href="#" style="margin: 0px; padding: 0px 0px 5px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 600; font-stretch: inherit; font-size: 0.8em; line-height: inherit; font-family: inherit; vertical-align: baseline; color: rgb(0, 91, 171); text-decoration-line: none; display: inline-block; outline: 0px;">Go to top</a></div>
 
 <p style="margin: 0px 0px 1.25rem; padding: 0px; border: 0px; font: inherit; vertical-align: baseline;">&nbsp;</p>
 
@@ -128,7 +126,7 @@ Composed of Saw Blades</p>
 
 <div data-pw-mobi="leaderboard_atf" style="margin: 0px; padding: 0px; border: 0px; font: inherit; vertical-align: baseline;">&nbsp;</div>
 
-<div class="su-divider su-divider-style-default" style="margin: 15px 0px; padding: 0px; border-width: 5px; border-style: none none solid; border-color: rgb(255, 255, 255); border-image: initial; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: 1; font-family: inherit; vertical-align: baseline; clear: both; text-align: right;"><a href="https://www.poelab.com/trial-locations/#" style="margin: 0px; padding: 0px 0px 5px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 600; font-stretch: inherit; font-size: 0.8em; line-height: inherit; font-family: inherit; vertical-align: baseline; color: rgb(0, 91, 171); text-decoration-line: none; display: inline-block; outline: 0px;">Go to top</a></div>
+<div class="su-divider su-divider-style-default" style="margin: 15px 0px; padding: 0px; border-width: 5px; border-style: none none solid; border-color: rgb(255, 255, 255); border-image: initial; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: 1; font-family: inherit; vertical-align: baseline; clear: both; text-align: right;"><a href="#" style="margin: 0px; padding: 0px 0px 5px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 600; font-stretch: inherit; font-size: 0.8em; line-height: inherit; font-family: inherit; vertical-align: baseline; color: rgb(0, 91, 171); text-decoration-line: none; display: inline-block; outline: 0px;">Go to top</a></div>
 
 <div class="su-spacer" style="margin: 0px; padding: 0px; border: 0px; font: inherit; vertical-align: baseline; height: 20px; clear: both; overflow: hidden;">&nbsp;</div>
 
@@ -171,7 +169,7 @@ Composed of Poison Dart Traps.</p>
 
 <p style="margin: 0px 0px 1.25rem; padding: 0px; border: 0px; font: inherit; vertical-align: baseline;"><a name="uber" style="margin: 0px; padding: 0px; border-width: 0px; border-style: initial; border-color: initial; font-style: inherit; font-variant: inherit; font-weight: 600; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline; color: rgb(230, 73, 70);"></a></p>
 
-<div class="su-divider su-divider-style-default" style="margin: 15px 0px; padding: 0px; border-width: 5px; border-style: none none solid; border-color: rgb(255, 255, 255); border-image: initial; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: 1; font-family: inherit; vertical-align: baseline; clear: both; text-align: right;"><a href="https://www.poelab.com/trial-locations/#" style="margin: 0px; padding: 0px 0px 5px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 600; font-stretch: inherit; font-size: 0.8em; line-height: inherit; font-family: inherit; vertical-align: baseline; color: rgb(0, 91, 171); text-decoration-line: none; display: inline-block; outline: 0px;">Go to top</a></div>
+<div class="su-divider su-divider-style-default" style="margin: 15px 0px; padding: 0px; border-width: 5px; border-style: none none solid; border-color: rgb(255, 255, 255); border-image: initial; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: 1; font-family: inherit; vertical-align: baseline; clear: both; text-align: right;"><a href="#" style="margin: 0px; padding: 0px 0px 5px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: 600; font-stretch: inherit; font-size: 0.8em; line-height: inherit; font-family: inherit; vertical-align: baseline; color: rgb(0, 91, 171); text-decoration-line: none; display: inline-block; outline: 0px;">Go to top</a></div>
 
 <p style="margin: 0px 0px 1.25rem; padding: 0px; border: 0px; font: inherit; vertical-align: baseline;">&nbsp;</p>
 
@@ -247,3 +245,7 @@ Composed of Poison Dart Traps.</p>
 </div>
 </div>
 </div>
+
+Full View:
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/JPxH4uN"  ><a href="//imgur.com/a/JPxH4uN">POE Lab Locations</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
